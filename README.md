@@ -1,3 +1,3 @@
 # для запуска приложения
-npm i
-npm start
+#### npm i
+#### npm start
